@@ -1,4 +1,4 @@
-# Aha.Domains
+# Aha.Dns.Domains
 
 Official white- and black-list for [AhaDNS](https://ahadns.com).
 
