@@ -2,6 +2,14 @@ ahadns.com
 ahadns.net
 ahadns.org
 www.ahadns.com
+nl.ahadns.net
+doh.nl.ahadns.net
+dot.nl.ahadns.net
+in.ahadns.net
+doh.in.ahadns.net
+dot.in.ahadns.net
+status.ahadns.com
+statistics.ahadns.com
 www.pi-dns.com
 statistics.pi-dns.com
 notifications.pi-dns.com
@@ -64,3 +72,5 @@ cdn.kuaidi100.com
 m.kuaidi100.com
 ivory.co.il
 www.ivory.co.il
+blocket.se
+www.blocket.se
