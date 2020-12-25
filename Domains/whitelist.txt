@@ -8,8 +8,8 @@ dot.nl.ahadns.net
 in.ahadns.net
 doh.in.ahadns.net
 dot.in.ahadns.net
-status.ahadns.net
-statistics.ahadns.net
+status.ahadns.com
+statistics.ahadns.com
 www.pi-dns.com
 statistics.pi-dns.com
 notifications.pi-dns.com
