@@ -2,7 +2,6 @@ money.dailyhunt.in
 relay.tor2socks.in
 dit.whatsapp.net
 bifrost-api.hotstar.com
-persona.hotstar.com
 variations.brave.com
 laptop-updates.brave.com
 au.ff.avast.sec.miui.com
